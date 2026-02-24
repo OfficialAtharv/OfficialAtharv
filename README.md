@@ -78,7 +78,9 @@ Here are the technologies I work with.
       <a href="#"><img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"></a>
       <a href="#"><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"></a>
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+     <td align="center">
 
 ### 🤖 AI Automation & No-Code
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
