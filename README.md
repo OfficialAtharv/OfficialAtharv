@@ -78,11 +78,18 @@ Here are the technologies I work with.
       <a href="#"><img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"></a>
       <a href="#"><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"></a>
     </td>
-     <!-- <td align="center">
-      <h4>AI Automation</h4>
-      <a href="#"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/n8n-color.png"></a>
-      <a href="#"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/lovable-color.png"></a>
-    </td> -->
+    <td align="center">
+
+### 🤖 AI Automation & No-Code
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bubble-000000?style=for-the-badge&logo=bubble&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</td>
   </tr>
 </table>
 
