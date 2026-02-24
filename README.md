@@ -80,19 +80,20 @@ Here are the technologies I work with.
     </td>
   </tr>
   <tr>
-     <td align="center">
+<td align="center">
 
 ### 🤖 AI Automation & No-Code
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lovable-FF4D6D?style=for-the-badge&logo=heart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bubble-000000?style=for-the-badge&logo=bubble&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </td>
-  </tr>
+</tr>
 </table>
 
 ---
