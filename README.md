@@ -78,6 +78,11 @@ Here are the technologies I work with.
       <a href="#"><img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"></a>
       <a href="#"><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"></a>
     </td>
+     <td align="center">
+      <h4>AI Automation</h4>
+      <a href="#"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/n8n-color.png"></a>
+      <a href="#"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/lovable-color.png"></a>
+    </td>
   </tr>
 </table>
 
